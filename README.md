@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b132b,40:1c2541,100:3a86ff&text=Jinye%20Lim&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Java%20%7C%20Spring%20%7C%20JSP&descSize=18&descAlignY=58&animation=fadeIn" />
-
 ### Tech Stacks
 
 ![Java](https://img.shields.io/badge/Java-0B5CAD?style=for-the-badge&logo=openjdk&logoColor=white)
