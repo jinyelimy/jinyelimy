@@ -16,7 +16,7 @@
 
 <br />
 
-## My Git Animals
+###  My Git Animals
 
 <img src="https://render.gitanimals.org/farms/jinyelimy" width="550" alt="GitAnimals Farm" />
 
