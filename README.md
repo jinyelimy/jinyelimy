@@ -17,6 +17,6 @@
 
 ## My Git Animals
 
-<img src="https://render.gitanimals.org/farms/jinyelimy" width="700" alt="GitAnimals Farm" />
+<img src="https://render.gitanimals.org/farms/jinyelimy" width="550" alt="GitAnimals Farm" />
 
 </div>
